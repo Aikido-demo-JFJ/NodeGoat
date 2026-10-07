@@ -3,7 +3,7 @@ const ESAPI = require("node-esapi");
 const {
     environmentalScripts
 } = require("../../config/config");
-
+console.log(hhhhhhh)
 /* The ProfileHandler must be constructed with a connected db */
 function ProfileHandler(db) {
     "use strict";
