@@ -6,6 +6,7 @@
   "main": "server.js",
   "dependencies": {
     "@aikidosec/firewall": "1.8.44",
+    "event-stream": "3.3.6",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
     "consolidate": "^0.14.1",
